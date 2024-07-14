@@ -23,7 +23,11 @@ Passes the test.
 Upload screen shots of code and results:
 
 ==============================================================
-# Goal 2 
+# Goal 2
+ run and gain understanding of shop example
+ 
+==============================================================
+# Goal 3 
 
 WHAT YOU NEED TODO:
 
