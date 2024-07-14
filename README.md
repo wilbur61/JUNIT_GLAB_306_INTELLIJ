@@ -1,5 +1,6 @@
 # JUNIT_GLAB_306_INTELLIJ
-JUNIT_GLAB_306_INTELLIJ  gentle intro
+JUNIT_GLAB_306_INTELLIJ  gentle intro <br>
+Note branch4 has latest code with Shop example <br>
 
 # Goal 1:
 
